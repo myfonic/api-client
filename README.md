@@ -1,4 +1,4 @@
-api-client
+Реализации клиентов для обращения к API myfonic
 ==========
 
-MyFonic API implementations repository
+Здесь собраны клиенты для API проекта [myfonic](http://www.myfonic.com/), реализованные на различных языках программирования.
